@@ -1,0 +1,22 @@
+/*
+Design by mRova Solutions
+http://www.mrova.com
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+/*********** General ******************/
+#header{
+	border-bottom:4px solid #FF5E4D; /* Set to desired color of bar under header */
+	-webkit-box-shadow: 0px 1px 10px 5px #222;
+	-moz-box-shadow: 0px 1px 10px 5px #222;
+	box-shadow: 0px 1px 10px 5px #222;
+}
+.gallery { list-style: none; padding: 0; margin: 0; }
+.gallery:after { clear: both; content: "."; display: block; height: 0; visibility: hidden; }
+.gallery li { float: left; width: 33.33333333%; }
+.gallery li a { display: block; margin: 5px; border: 1px solid #3c3c3c; }
+.gallery li img { display: block; width: 100%; height: auto; }
+
+.copyright {
+text-align: center;
+font-size: 11px;
+}
