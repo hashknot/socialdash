@@ -83,7 +83,8 @@ $app = new InvMode();
 						    <li>Your messages without the other person knowing that you've seen.</li>
 						    <li>Who's online without having to go online.</li>
 						    <li>Your notifications.</li>
-						  </ul>
+						    <li><a href='https://github.com/crusador/socialdash' rel='external'>Open Source</a></li>
+						 </ul>
 					 </div>
 					
 					  <div class="ui-body ui-body-b ui-corner-all" style="max-width:30%;text-align:center;display:inline-block;min-width:175px;clear:none;float:left">
